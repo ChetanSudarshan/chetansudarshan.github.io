@@ -171,8 +171,8 @@ sections:
           tag: '*'
         - name: Sustainable Computing
           tag: Sustainable Computing
-        - name: Other
-          tag: Demo
+        #- name: Other
+        #  tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
