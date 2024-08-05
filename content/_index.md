@@ -231,14 +231,14 @@ sections:
   #C   content:
   #C    title: Popular Topics
   #C  design:
-      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Feel free to contact me for collaborations or to discuss my research !!
+  #C    columns: '2'
+  #C- block: contact
+  #C  id: contact
+  #C  content:
+  #C    title: Contact
+  #C    subtitle:
+  #C    text: |-
+  #C      Feel free to contact me for collaborations or to discuss my research !!
       # Contact (add or remove contact options as necessary)
       #C email: cchoppal@asu.edu
       #C phone: 
@@ -258,14 +258,14 @@ sections:
       #C coordinates:
       #C   latitude: '33.418339034099446'
       #C   longitude: '-111.928423120922'  
-      contact_links:
-        - icon: at-symbol
-          url: 'mailto:cchoppal@asu.com'
-          label: E-mail Me
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/ChetanSudarshan'
+#C      contact_links:
+#C        - icon: at-symbol
+#C          url: 'mailto:cchoppal@asu.com'
+#C          label: E-mail Me
+#C        - icon: twitter
+#C          icon_pack: fab
+#C          name: DM Me
+#C          link: 'https://twitter.com/ChetanSudarshan'
         #C - icon: skype
         #C   icon_pack: fab
         #C   name: Skype Me
@@ -284,6 +284,6 @@ sections:
       #C  netlify:
       #C    # Enable CAPTCHA challenge to reduce spam?
       #C    captcha: true
-    design:
-      columns: '2'
+#C    design:
+#C      columns: '2'
 ---
