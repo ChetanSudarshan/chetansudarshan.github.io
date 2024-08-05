@@ -36,3 +36,17 @@ It is crucial to examine the lifecycle assessment (LCA) of semiconductor devices
 
 My work on [ECO-CHIP](https://chetansudarshan.github.io/publication/ecochip/) demonstrates how Heterogeneous Integration (HI) can pave the way for sustainable computing. By leveraging the ability to reuse components across multiple products, reducing the design carbon footprint (CFP), improving yield through smaller chiplet areas, and mixing and matching various technology nodes, HI offers significant environmental benefits. We are all familiar with the 3R's of sustainability: Reduce, Reuse, and Recycle. My other work, [GreenFPGA](https://chetansudarshan.github.io/publication/greenfpga/), introduces a fourth 'R'—Reconfigurability. This research examines the reconfigurability of FPGAs and compares their sustainability to ASICs.
 
+<div class="highlight">
+<pre class="chroma">
+<code>
+```markmap
+- Sustainable Computing
+  - Heterogeneous Integration
+    - [**ECO-CHIP**](https://chetansudarshan.github.io/publication/ecochip/)
+  - Reconfigurabiltiy 
+    - [**GreenFPGA**](https://chetansudarshan.github.io/publication/greenfpga/)
+```
+</code>
+</pre>
+</div>
+
