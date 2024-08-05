@@ -259,6 +259,9 @@ sections:
       #C   latitude: '33.418339034099446'
       #C   longitude: '-111.928423120922'  
       contact_links:
+        - icon: at-symbol
+          url: 'mailto:cchoppal@asu.com'
+          label: E-mail Me
         - icon: twitter
           icon_pack: fab
           name: DM Me
@@ -273,14 +276,14 @@ sections:
         #C   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+      #C# Email form provider
+      #Cform:
+      #C  provider: netlify
+      #C  formspree:
+      #C    id:
+      #C  netlify:
+      #C    # Enable CAPTCHA challenge to reduce spam?
+      #C    captcha: true
     design:
       columns: '2'
 ---
