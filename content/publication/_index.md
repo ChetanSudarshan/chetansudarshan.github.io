@@ -5,7 +5,7 @@ date: "2021-03-04T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
 
-<!-- ---
+
 title: Publications
 cms_exclude: true
 
@@ -14,10 +14,10 @@ cms_exclude: true
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 1
 
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
   image: ''
---- -->
+
