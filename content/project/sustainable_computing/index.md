@@ -1,6 +1,6 @@
 ---
-title: Architecture and Framework for sutainable computing
-summary: The Critical Need for Sustainable Computing Architectures
+title: Framework for Advancing Sustainable Computing
+summary: The Critical Need for Sustainable Computing architectures and frameworks
 tags:
   - Sustainable Computing
 date: '2024-03-03T00:00:00Z'
