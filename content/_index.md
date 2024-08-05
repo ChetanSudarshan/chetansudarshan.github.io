@@ -240,24 +240,24 @@ sections:
       text: |-
         Feel free to contact me for collaborations or to discuss my research !!
       # Contact (add or remove contact options as necessary)
-      email: cchoppal@asu.edu
+      #C email: cchoppal@asu.edu
       #C phone: 
       #C appointment_url: 'https://calendly.com'
-      address:
-        street: 781 S Terrace Rd
-        city: Tempe
-        region: AZ
-        postcode: '85281'
-        country: United States
-        country_code: US
+      #C address:
+      #C   street: 781 S Terrace Rd
+      #C   city: Tempe
+      #C   region: AZ
+      #C   postcode: '85281'
+      #C   country: United States
+      #C   country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '33.418339034099446'
-        longitude: '-111.928423120922'  
+      #C coordinates:
+      #C   latitude: '33.418339034099446'
+      #C   longitude: '-111.928423120922'  
       contact_links:
         - icon: twitter
           icon_pack: fab
