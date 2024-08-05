@@ -179,16 +179,16 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+  #C- block: collection
+  #C  id: talks
+  #C  content:
+  #C    title: Recent & Upcoming Talks
+  #C    filters:
+  #C      folders:
+  #C        - event
+  #C  design:
+  #C    columns: '2'
+  #C    view: compact
   - block: collection
     id: posts
     content:
