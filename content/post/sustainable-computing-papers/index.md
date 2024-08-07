@@ -44,70 +44,49 @@ categories:
   
 ---
 
-```python
-import libr
-print('hello')
-```
 
-## Overview
+### Sustainable computing 
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## 2024
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://hugoblox.com)
-
-## Get Started
-
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://hugoblox.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://hugoblox.com/sponsor/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://hugoblox.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://docs.hugoblox.com/page-builder/) and [**elements**](https://docs.hugoblox.com/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/content/writing-markdown-latex/), [**Jupyter**](https://docs.hugoblox.com/import/jupyter/), or [**RStudio**](https://docs.hugoblox.com/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Sustainable computing 
-
-[**ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI**](https://arxiv.org/abs/2306.09434)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1810.04805-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/2306.09434)
+**ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI** _HPCA'24_ [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2306.09434)
+**GreenFPGA: Evaluating FPGAs as Environmentally Sustainable Computing Solutions** _DAC'24_ [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2311.12396)
+**Designing Cloud Servers for Lower Carbon** _ISCA'24_  [![](https://img.shields.io/badge/Paper-Link)](https://www.microsoft.com/en-us/research/uploads/prodnew/2024/03/2024-GreenSKU-ISCA2024.pdf)
+**FOCAL: A First-Order Carbon Model to Assess Processor Sustainability** _ASPLOS'24_ [![](https://img.shields.io/badge/Paper-Link)](https://users.elis.ugent.be/~leeckhou/papers/ASPLOS2024.pdf)
+**The Sustainability Gap for Computing** [![](https://img.shields.io/badge/Paper-Link)](https://hotethics.github.io/papers/Eeckhout_Hotethics24.pdf)
+**System Support for Environmentally Sustainable Computing in Data Centers** [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2403.12698)
+**LLMCarbon: Modeling the end-to-end Carbon Footprint of Large Language Models** _ICLR'24_ [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2309.14393)
+**SCARIF: Towards Carbon Modeling of Cloud Servers with Accelerators** [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2401.06270)
+**IoTCO2: Assessing the End-To-End Carbon Footprint of Internet-of-Things-Enabled Deep Learning** [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2403.10984)
+**Photonics for Sustainable Computing** [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2401.05121)
 
 
-## License
+## 2023
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+**Design Space Exploration and Optimization for Carbon-Efficient Extended Reality Systems** [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2305.01831)
+**Carbon-Efficient Design Optimization for Computing Systems** _HotCarbon'23_ [![](https://img.shields.io/badge/Paper-Link)](https://hotcarbon.org/assets/2023/pdf/a16-elgamal.pdf)
+**Toward Sustainable Computer Systems** [![](https://img.shields.io/badge/Paper-Link)](https://dl.acm.org/doi/10.1109/MC.2023.3329268)
+**Towards sustainable computer architecture: A holistic approach** [![](https://img.shields.io/badge/Paper-Link)(https://inria.hal.science/hal-04023794/document#page=219)
+**Cradle-to-gate Life Cycle Assessment of CMOS Logic Technologies** [![](https://img.shields.io/badge/Paper-Link)](https://ieeexplore.ieee.org/document/10413725)
+**Architectural CO2 Footprint Tool: Designing Sustainable Computer Systems With an Architectural Carbon Modeling Tool** _MICRO'23_ [![](https://img.shields.io/badge/Paper-Link)](https://ieeexplore.ieee.org/abstract/document/10122998)
+**GreenScale: Carbon-Aware Systems for Edge Computing** [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/pdf/2304.00404)
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md) license.
+## 2022
+
+** ** [![](https://img.shields.io/badge/Paper-Link)]()
+**ACT: Designing Sustainable Computer Systems With An Architectural Carbon Modeling Tool** _ISCA'22_ [![](https://img.shields.io/badge/Paper-Link)](https://ugupta.com/files/Gupta_ISCA2022_ACT.pdf)
+**Chasing Carbon: The Elusive Environmental Footprint of Computing** _MICRO'22_ [![](https://img.shields.io/badge/Paper-Link)](https://arxiv.org/abs/2011.02839)
+**Kaya for Computer Architects: Towards Sustainable Computer Systems** _MICRO'22_ [![](https://img.shields.io/badge/Paper-Link)](https://users.elis.ugent.be/~leeckhou/papers/Micro_Kaya_2023.pdf)
+**A first-order model to assess computer architecture sustainability** [![](https://img.shields.io/badge/Paper-Link)](https://ieeexplore.ieee.org/abstract/document/9930484)
+
+## 2020 
+
+**DTCO including Sustainability: Power-Performance-Area-Cost-Environmental score (PPACE) Analysis for Logic Technologies** [![](https://img.shields.io/badge/Paper-Link)](https://ieeexplore.ieee.org/document/9372004)
+
+## 2019
+
+**GreenChip: A tool for evaluating holistic sustainability of modern computing systems** [![](https://img.shields.io/badge/Paper-Link)](https://doi.org/10.1016/j.suscom.2017.10.001)
+
+
+
+Feel free to share this link to help progress research efforts for a sustainable future !! 
