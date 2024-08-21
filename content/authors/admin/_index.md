@@ -123,7 +123,7 @@ social:
 highlight_name: true
 ---
 
-I am a second-year Ph.D. student at [Arizona State University](https://ecee.engineering.asu.edu/), where I am fortunate to be advised by [Prof. Vidya A Chhabria](https://faculty.engineering.asu.edu/vidyachhabria/). Currently, my research is centered around sustainable computing and chiplet-based heterogeneous integration architecture.
+I am a second-year Ph.D. student at [Arizona State University](https://ecee.engineering.asu.edu/), where I am fortunate to be advised by [Prof. Vidya A Chhabria](https://faculty.engineering.asu.edu/vidyachhabria/). Currently, my research is centered around sustainable computing and chiplet-based heterogeneous integration architecture. I also actively work with [Prof. Aman Arora](https://labs.engineering.asu.edu/advent/director/).
 
 I received my Bachelor's in Electronics and Telecommunication Engineering from [R.V. College of Engineering](https://www.rvce.edu.in/), I then graduated with a Master's in Electrical Engineering from [Arizona State University](https://ecee.engineering.asu.edu/). 
 
