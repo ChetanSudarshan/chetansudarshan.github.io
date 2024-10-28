@@ -133,6 +133,8 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Nov, 2024]</b>. Invited to give a short talk titled <b>"Extending ACT to evaluate HI and FPGA for Sustainable Computing"</b> at <a href="https://s4ai-cornelltech.github.io/ACT/">ACT Tutorial</a> at <a href="https://microarch.org/micro57/">MICRO 2024</a>  </li>
+
   <li> <b>[Nov, 2024]</b>. Will be attending <a href="https://www.igscc.org/">IGSC 2024</a> co-located with <a href="https://microarch.org/micro57/">MICRO 2024</a> at Austin to present our work <b>"Beyond the Surface: The necessity for Detailed Metrics in Corporate Sutainaiblity Reports"</b> </li>
 
   <li> <b>[Oct, 2024]</b>. Our paper titled <b>"Beyond the Surface: The necessity for Detailed Metrics in Corporate Sutainaiblity Reports"</b> is accepted at <a href="https://www.igscc.org/">IGSC 2024</a>!  </li>
