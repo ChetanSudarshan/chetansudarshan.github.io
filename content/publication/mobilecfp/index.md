@@ -51,7 +51,7 @@ url_code: 'https://github.com/ASU-VDA-Lab/Mobile-Processor-Carbon'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'publication/mobilecfp/mobile_processor_igsc24_slides.pdf'
 url_source: ''
 url_video: ''
 
