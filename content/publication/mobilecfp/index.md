@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/10765600'
 url_code: 'https://github.com/ASU-VDA-Lab/Mobile-Processor-Carbon'
 url_dataset: ''
 url_poster: ''
