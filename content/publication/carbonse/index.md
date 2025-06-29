@@ -1,10 +1,11 @@
 ---
-title: 'GreenFPGA2: Evaluating FPGAs as Environmentally Sustainable Computing Solutions'
+title: 'CarbonSet: A Dataset to Analyze Trends and Benchmark the Sustainability of CPUs and GPUs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Jiajun Hu
   - admin
   - Vidya A. Chhabria
   - Aman Arora
@@ -31,34 +32,34 @@ publication_types: ['paper-conference'] #Conference
 publication: In *GVLSI 2024*
 publication_short: In *GVLSI'24*
 
-abstract: Growing global concerns about climate change highlight the need for environmentally sustainable computing. The ecological impact of computing, including operational and embodied, is a key consideration. Field Programmable Gate Arrays (FPGAs) stand out as promising sustainable computing platforms due to their reconfigurability across various applications. This paper introduces GreenFPGA, a tool estimating the total carbon footprint (CFP) of FPGAs over their lifespan, considering design, manufacturing, reconfigurability (reuse), operation, disposal, and recycling. Using GreenFPGA, the paper evaluates scenarios where the ecological benefits of FPGA reconfigurability outweigh operational and embodied carbon costs, positioning FPGAs as a environmentally sustainable choice for hardware acceleration compared to Application-Specific Integrated Circuits (ASICs). Experimental results show that FPGAs have lower CFP than ASICs, particularly for multiple distinct, low-volume applications, or short application lifespans.
+abstract: Over the years, the chip industry has consistently developed high-performance processors to address the increasing demands across diverse applications. However, the rapid expansion of chip production has significantly increased carbon emissions, raising critical concerns about environmental sustainability. While researchers have previously modeled the carbon footprint (CFP) at both system and processor levels, a holistic analysis of sustainability trends encompassing the entire chip lifecycle remains lacking. This paper presents CarbonSet, a comprehensive dataset integrating sustainability and performance metrics for CPUs and GPUs over the past decade. CarbonSet aims to benchmark and assess the design of next-generation processors. Leveraging this dataset, we conducted detailed analysis of flagship processors' sustainability trends over the last decade. This paper further highlights that modern processors are not yet sustainably designed, with total carbon emissions increasing more than 50 in the past three years due to the surging demand driven by the AI boom. Power efficiency remains a significant concern, while advanced process nodes pose new challenges requiring to effectively amortize the dramatically increased manufacturing carbon emissions.
 
 # Summary. An optional shortened abstract.
-summary: Tool to evaluate the carbon footprint of FPGA-based computing across its lifetime. The tool can also perform comparisons with ASIC counterpart considering differnt aspects such as manufacturing, recycling, disposal, reconfigurability (reuse), operation and design. The sustainable benifits of FPGA compared to ASIC is shown in this work.
+summary: CarbonSet is a carbon footprint dataset covering 1600+ desktop and datacenter CPUs and GPUs. It includes design, performance, and sustainability metrics like area, TDP, ECFP, and OCFP. It also provides composite indicators (e.g., performance per CFP, ECFPA) for tradeoff analysis.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2311.12396'
-url_code: 'https://github.com/ASU-VDA-Lab/GreenFPGA'
+url_pdf: 'https://arxiv.org/pdf/2506.10373'
+url_code: 'https://github.com/advent-lab/CarbonSet'
 url_dataset: ''
-url_poster: 'publication/greenfpga/greenfpga_dac24_poster.pdf'
+url_poster: ''
 url_project: ''
-url_slides: 'publication/greenfpga/greenfpga_dac24_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'GreenFPGA'
+  caption: 'CarbonSet'
   focal_point: ''
   preview_only: false
 
