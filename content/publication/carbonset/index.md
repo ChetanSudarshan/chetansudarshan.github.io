@@ -30,7 +30,7 @@ publication_types: ['paper-conference'] #Conference
 
 # Publication name and optional abbreviated publication name.
 publication: In *GVLSI 2025*
-publication_short: In *GVLSI'25*
+publication_short: In *GVLSI'25'
 
 abstract: Over the years, the chip industry has consistently developed high-performance processors to address the increasing demands across diverse applications. However, the rapid expansion of chip production has significantly increased carbon emissions, raising critical concerns about environmental sustainability. While researchers have previously modeled the carbon footprint (CFP) at both system and processor levels, a holistic analysis of sustainability trends encompassing the entire chip lifecycle remains lacking. This paper presents CarbonSet, a comprehensive dataset integrating sustainability and performance metrics for CPUs and GPUs over the past decade. CarbonSet aims to benchmark and assess the design of next-generation processors. Leveraging this dataset, we conducted detailed analysis of flagship processors' sustainability trends over the last decade. This paper further highlights that modern processors are not yet sustainably designed, with total carbon emissions increasing more than 50 in the past three years due to the surging demand driven by the AI boom. Power efficiency remains a significant concern, while advanced process nodes pose new challenges requiring to effectively amortize the dramatically increased manufacturing carbon emissions.
 
@@ -40,7 +40,7 @@ summary: CarbonSet is a carbon footprint dataset covering 1600+ desktop and data
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
