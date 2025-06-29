@@ -40,7 +40,7 @@ summary: CarbonSet is a carbon footprint dataset covering 1600+ desktop and data
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
