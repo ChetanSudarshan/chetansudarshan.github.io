@@ -133,6 +133,10 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[Jun, 2025]</b>. Our dataset work CarbonSet containing 1600+ desktop and datacenter CPUs/GPUs covering design, performance, and sustainaiblity metrics is open sourced! Check it out <b><a href="https://github.com/advent-lab/CarbonSet">CarbonSet GitHub</a></b>  </li>
+
+  <li> <b>[Apr, 2025]</b>. Our paper <a href="https://arxiv.org/abs/2506.10373">CarbonSet paper</a> is accepted by <a href="https://www.glsvlsi.org/">GVLSI 2025</a>!  </li>
+  
   <li> <b>[Nov, 2024]</b>. Invited to give a short talk titled <b>"Extending ACT to evaluate HI and FPGA for Sustainable Computing"</b> at <a href="https://s4ai-cornelltech.github.io/ACT/">ACT Tutorial</a> at <a href="https://microarch.org/micro57/">MICRO 2024</a>  </li>
 
   <li> <b>[Nov, 2024]</b>. Will be attending <a href="https://www.igscc.org/">IGSCC 2024</a> co-located with <a href="https://microarch.org/micro57/">MICRO 2024</a> at Austin to present our work <b>"Beyond the Surface: The necessity for Detailed Metrics in Corporate Sutainaiblity Reports"</b> </li>
