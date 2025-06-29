@@ -1,11 +1,12 @@
 ---
-title: 'Beyond the Surface: The Necessity for Detailed Metrics in Corporate Sustainability Reports'
+title: 'CarbonSet: A Dataset to Analyze Trends and Benchmark the Sustainability of CPUs and GPU'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Jiajun Hu
   - Aman Arora
   - Vidya A. Chhabria
 
@@ -14,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-11-01T00:00:00Z'
+date: '2025-06-30T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,13 +29,13 @@ publication_types: ['paper-conference'] #Conference
 #publication_types: ["article"] #Arxiv
 
 # Publication name and optional abbreviated publication name.
-publication: In *IGSC 2024*
-publication_short: In *IGSC'24*
+publication: In *GCLSI 2025*
+publication_short: In *GVLSI'25'
 
-abstract: The smartphone industry is advancing rapidly, emphasizing the development of smaller, energy-efficient devices with enhanced features. However, this progress often overlooks the significant environmental impacts of these ubiquitous devices. While corporate sustainability reports from mobile product companies aim to address these concerns, they typically provide high-level overviews that obscure critical details, particularly regarding the carbon footprints (CFP) of individual components such as processors and memories. This paper investigates the discrepancy between the overall CFP trends reported and the actual increasing CFP contributions of processors over the years. Through a detailed analysis, the inadequacies in current reporting practices are highlighted, underscoring the necessity for more granular data and metrics in corporate sustainability reports. Specific, detailed metrics are proposed for inclusion in these reports to enhance transparency and help align the chip architecture, design, and manufacturing communities toward addressing relevant sustainability-related challenges.
+abstract: Over the years, the chip industry has consistently developed high-performance processors to address the increasing demands across diverse applications. However, the rapid expansion of chip production has significantly increased carbon emissions, raising critical concerns about environmental sustainability. While researchers have previously modeled the carbon footprint (CFP) at both system and processor levels, a holistic analysis of sustainability trends encompassing the entire chip lifecycle remains lacking. This paper presents CarbonSet, a comprehensive dataset integrating sustainability and performance metrics for CPUs and GPUs over the past decade. CarbonSet aims to benchmark and assess the design of next-generation processors. Leveraging this dataset, we conducted detailed analysis of flagship processors' sustainability trends over the last decade. This paper further highlights that modern processors are not yet sustainably designed, with total carbon emissions increasing more than 50 in the past three years due to the surging demand driven by the AI boom. Power efficiency remains a significant concern, while advanced process nodes pose new challenges requiring to effectively amortize the dramatically increased manufacturing carbon emissions.
 
 # Summary. An optional shortened abstract.
-summary: The smartphone industry’s push for smaller, energy-efficient devices with advanced features often overlooks environmental impacts. Corporate sustainability reports provide broad overviews, masking critical details, especially about carbon footprints (CFP) of components like processors. This paper examines the gap between reported CFP trends and the rising CFP contributions of processors, highlighting deficiencies in reporting practices. We propose specific metrics to improve transparency and guide chip design and manufacturing toward sustainable solutions.
+summary: CarbonSet is a carbon footprint dataset covering 1600+ desktop and datacenter CPUs and GPUs. It includes design, performance, and sustainability metrics like area, TDP, ECFP, and OCFP. It also provides composite indicators (e.g., performance per CFP, ECFPA) for tradeoff analysis.
 
 tags: []
 
@@ -46,19 +47,19 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/ASU-VDA-Lab/Mobile-Processor-Carbon'
+url_pdf: 'https://arxiv.org/pdf/2506.1037'
+url_code: 'https://github.com/advent-lab/CarbonSet'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'publication/mobilecfp/mobile_processor_igsc24_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'MobileCFP'
+  caption: 'CarbonSet'
   focal_point: ''
   preview_only: false
 
